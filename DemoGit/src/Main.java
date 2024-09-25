@@ -9,6 +9,6 @@ public class Main {
 
         System.out.println("Coding is " + CodingIs);
         System.out.println(cold);
-        //I'm kinda lost
+        //I'm kinda lost, still lost
     }
 }
