@@ -5,7 +5,9 @@ public class Main {
         System.out.println("Welcome home Moon Knight... ");
 
         String CodingIs = "Actually cool.";
+        String cold = "Winter is Coming!";
 
         System.out.println("Coding is " + CodingIs);
+        System.out.println(cold);
     }
 }
